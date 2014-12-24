@@ -1,0 +1,550 @@
+GIANTS Engine Runtime 6.0.2 64bit (Build Date: Dec  9 2014)
+Copyright (c) 2008-2014, GIANTS Software GmbH (giants-software.com), All Rights Reserved.
+Copyright (c) 2003-2014, Christian Ammann and Stefan Geiger, All Rights Reserved.
+Application: FarmingSimulator2015
+Main System
+  CPU: AMD Athlon(tm) X4 760K Quad Core Processor     
+  Memory: 16306 MB
+  OS: Windows NT 6.1 64-bit
+Physics System
+  Version: 5.9.4
+  Thread(s): 2
+Input System
+  Keyboard enabled
+  Mouse enabled
+  Gamepad/Joystick enabled
+  Force Feedback enabled
+  Name: T500 RS Gear Shift
+  Name: Logitech Attack 3 USB
+  Name: Logitech Driving Force GT USB
+Sound System
+  Driver: OpenAL
+  Version: 1.1
+  Device:  Generic Software
+  Max. sources: 256
+Render System
+  Driver: OpenGL
+  Card Vendor: ATI Technologies Inc.
+  Renderer: AMD Radeon R9 200 Series
+  Version: 3.2.13084 Compatibility Profile Context 14.301.1001.0
+  Shader Version: 4.40
+    GL_NV_texture_compression_vtc not supported
+    max_texture_layers: 16
+    OpenGL initialization successful
+Hardware Profile
+  Level: Very High (forced)
+  View Distance Factor: 1.300000
+  Shadow Quality: 2.000000
+  Skip Mipmaps: 0
+  LOD Distance Factor: 1.300000
+  Terrain LOD Distance Factor: 2.000000
+  Foliage View Distance Factor: 1.600000
+  Volume Mesh Tessellation Factor: 0.750000
+  Tyre Tracks Segments Factor: 4.000000
+Farming Simulator 15 INT
+  Version: 1.2.0.0 1.2RC6
+  Available Languages: en de fr es it pl cz hu nl ru jp pt cs ct br tr ro kr
+  Language: fr
+Game vehicle types loaded
+Mod directory: C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods/
+Load mod: adjustableMirror
+Load mod: amazoneCondor15001
+Load mod: AnimationMapTrigger
+Load mod: BjornholmSnowByGS
+Load mod: Dodge_Ram_Service
+Load mod: FeedStorage_BjornHolm
+Load mod: FrontloaderConveyorMulti
+Load mod: FrontloaderConveyorMultiTrailer
+Load mod: FS15_deutzFahrBlackEdition
+Load mod: FS15_flieglTMK266MK
+Load mod: FS15_KroneBigM500
+Load mod: FS15_lamborghiniNitro120
+Load mod: FS15_marshallBaleTrailerBC25
+Load mod: Holzhausen15
+Load mod: horschPronto9SW
+Load mod: HudHiderbyClodls15
+Load mod: Inspector_V24
+Load mod: jenzHemBACKv3
+Load mod: Kaercher
+Load mod: MapBuyableObject
+Load mod: MilkTruckTriggerP
+Load mod: MinMax
+Load mod: MischStation
+Load mod: MixerWagonBaleGrab
+Load mod: MoneyModLS15
+Load mod: mp_helfer
+Load mod: placeable
+Load mod: placeableHalls
+Load mod: Removehaze
+Load mod: StopMilkSale
+Load mod: TankstationV115
+Load mod: TelehandlerConveyorMulti
+Load mod: teleportation
+Load mod: VehicleGroupsSwitcher
+Load mod: WaterMilkTrailerGross
+Load mod: WestBridge_Storage_addon
+Load mod: zzz_allowDirectPlanting
+Load mod: ZZZ_autoOffTurnSignals
+Load mod: zzz_courseplay
+Load mod: ZZZ_driveControl
+Load mod: ZZZ_fastForward
+Script adjustableMirror (C) v1.1.5 by Marhu loaded! Support on http://marhu.net
+  Register vehicle type: Dodge_Ram_Service.Pickup
+  Register vehicle type: FrontloaderConveyorMulti.Conveyor
+  Register vehicle type: FrontloaderConveyorMultiTrailer.FConveyorTrailer
+  Register vehicle type: FS15_KroneBigM500.Krone
+--- New fruittypes registert: ChoppedStraw, Luzerne, Guelle, Mist, Kalk
+  Register vehicle type: horschPronto9SW.horschPronto9SW
+HUD Hider by Clod-http://forum.tractor-italia.net loaded
+   Map: Buyable Objects(Buyable) v3.1  by Bluebaby210 loaded!
+   Map: Buyable Objects(Icon) v3.1  by Bluebaby210 loaded!
+   Map: Buyable Objects(Master) v3.1  by Bluebaby210 loaded!
+Script loaded: MinMax.lua (v1.61)
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//MoneyModLS15/LS15Money.lua:49: attempt to index global 'LS15MoneyEvent' (a nil value)
+  Register vehicle type: TelehandlerConveyorMulti.Conveyor
+Script loaded: VehicleGroupsSwitcher.lua (v2.0.6)
+  Register vehicle type: WaterMilkTrailerGross.MilkTrailer
+### Courseplay: initialized 38/38 files (v4.00.0266)
+    ******************************************* WARNING *******************************************
+    * You are using a development version of Courseplay, which may and will contain errors, bugs, *
+    * mistakes and unfinished code. Chances are your computer will explode when using it. Twice.  *
+    * If you have no idea what "beta", "alpha", or "developer" means and entails, remove this     *
+    * version of Courseplay immediately. The Courseplay team will not take any responsibility for *
+    * crop destroyed, savegames deleted or baby pandas killed.                                    *
+    ***********************************************************************************************
+### Courseplay: installed into 22 vehicles
+--- installing driveControl by upsidedown into Drivable and Steerable...
+data/sky/sky_day_night.i3d (281.18 ms)
+data/sky/rain.i3d (36.75 ms)
+data/sky/hail.i3d (22.44 ms)
+data/sky/dust.i3d (15.26 ms)
+data/maps/map01.i3d (19131.37 ms)
+Script adjustableMirror (R) v1.0.2 by Marhu registered in 23 vehicleTypes Support on http://marhu.net
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//FeedStorage_BjornHolm/storage.i3d (112.36 ms)
+Script adjustableMirror (R) v1.0.2 by Marhu registered in 0 vehicleTypes Support on http://marhu.net
+Warning (compatibility): Texture C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//MinMax/MinMax.png width or height doesn't equal 2^n.
+--- loading Gasstation_Placable --- (by Harrybo)
+[INFO::allowDirectPlanting] Register allow direct planting...
+--- loading autoOffTurnSignals mod V1.0 (by mLine)---
+## Courseplay: setting up signs
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/img/signs/normal.i3d (0.78 ms)
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/img/signs/cross.i3d (1.14 ms)
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/img/signs/wait.i3d (1.27 ms)
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/img/signs/start.i3d (1.35 ms)
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/img/signs/stop.i3d (1.20 ms)
+## Courseplay: setting up fields (basic)
+## Courseplay: loading settings from "courseplay.xml"
+## Courseplay: setting up hud
+## Courseplay: setting up debug channels
+## Courseplay: setting up globalInfoText
+## Courseplay: loading courses and folders from "courseplay.xml"
+--- loading driveControl mod V3.51 (by upsidedown)---
+## Courseplay: setting up signs
+## Courseplay: setting up fields (basic)
+## Courseplay: loading settings from "courseplay.xml"
+## Courseplay: setting up hud
+## Courseplay: setting up debug channels
+## Courseplay: setting up globalInfoText
+data/vehicles/tools/amazone/amazoneUF1801.i3d (178.51 ms)
+data/vehicles/tools/amazone/amazoneFT1001.i3d (136.36 ms)
+data/vehicles/steerable/newHolland/newHollandTC590.i3d (385.84 ms)
+dataS2/character/player/player.i3d (904.52 ms)
+loading C:/Users/Mathe/Documents/my games/FarmingSimulator2015//driveControl_config.xml for driveControl-Mod configuration
+driveControl module shuttle not started
+driveControl module manMotorStart started
+driveControl module manMotorKeepTurnedOn started
+driveControl module gasAndGearLimiter not started
+driveControl module hourCounter started
+driveControl module sensibleSteering started
+driveControl module handBrake started
+driveControl module fourWDandDifferentials started
+driveControl module inDoorSound started
+driveControl module dirtModule not started
+driveControl sensibleSteering deadZone set to 0%
+driveControl inDoorSound set to 45%
+data/vehicles/cutters/newHolland/newHollandHeader18.i3d (247.53 ms)
+data/vehicles/steerable/newHolland/newHollandT8320.i3d (267.92 ms)
+data/vehicles/tools/suer/suerSB1600.i3d (51.09 ms)
+data/vehicles/tools/vaederstad/vaederstadRapidA600S.i3d (174.73 ms)
+data/vehicles/particleAnimations/vaederstad/vaederstadRapidA600S.i3d (89.36 ms)
+[INFO::allowDirectPlanting] data/vehicles/tools/vaederstad/vaederstadRapidA600S.xml enabled
+data/vehicles/tools/grimme/grimmeGL420.i3d (292.62 ms)
+data/vehicles/particleAnimations/grimme/grimmeGL420.i3d (28.52 ms)
+[INFO::allowDirectPlanting] data/vehicles/tools/grimme/grimmeGL420.xml enabled
+data/vehicles/tools/vaederstad/vaederstadTempoF8.i3d (121.21 ms)
+data/vehicles/particleAnimations/vaederstad/vaederstadTempoF8.i3d (24.67 ms)
+[INFO::allowDirectPlanting] data/vehicles/tools/vaederstad/vaederstadTempoF8.xml enabled
+data/vehicles/tools/vaederstad/vaederstadCarrier820.i3d (127.93 ms)
+data/vehicles/particleAnimations/vaederstad/vaederstadCarrier820.i3d (47.64 ms)
+data/vehicles/steerable/same/sameFortis190.i3d (284.28 ms)
+data/vehicles/tools/grimme/grimmeKS75-4.i3d (108.15 ms)
+data/vehicles/tools/grimme/grimmeSE260.i3d (544.98 ms)
+data/vehicles/tools/grimme/grimmeFT300.i3d (119.05 ms)
+data/vehicles/tools/grimme/grimmeRootster604.i3d (229.86 ms)
+data/vehicles/trailers/kroeger/kroegerHKD302.i3d (144.56 ms)
+data/vehicles/trailers/fuelTrailer/fuelTrailer.i3d (122.71 ms)
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//TankstationV115/Tankstation.i3d (81.71 ms)
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//Kaercher/kaercherHDS918-4M.i3d (125.18 ms)
+dataS/character/player/playerCCT.i3d (9.77 ms)
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+GrimmeSE260 workwidth: 1.6 m
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+Error: Running LUA method 'update'.
+C:/Users/Mathe/Documents/my games/FarmingSimulator2015/mods//zzz_courseplay/mode2.lua:492: attempt to compare nil with number
+data/firstPerson/chainsaws/husqvarna/husqvarna550.i3d (144.68 ms)
+data/vehicles/trailers/stepa/stepaFHL13AK.i3d (396.74 ms)
+data/vehicles/tools/fsi/fsiST65T.i3d (89.61 ms)
+data/vehicles/cutters/newHolland/newHollandHeader980CF6.i3d (226.45 ms)
